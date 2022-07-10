@@ -1,5 +1,7 @@
 ## Welcome to GitHub Pages
 
+<a href="https://amilooscar.github.io/html-css/exercicios/ex001/index.html">Executar o exercício 001</a>
+
 You can use the [editor on GitHub](https://github.com/amilooscar/html-css/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
